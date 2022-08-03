@@ -22,7 +22,10 @@ const Nav = () => {
                         </a>
                     </li>
                     <li>
-                        <a href="https://fxdxdex.github.io/howto/">Guide</a>
+                        <a href="https://fxdxdex.github.io/howto/">How To</a>
+                    </li>
+                     <li>
+                        <a href="https://m.mexc.com/auth/signup?inviteCode=1HqkX">Buy USDC(ALGO)</a>
                     </li>
                 </ul>
                 <a className="btn" href="https://mainnet.fxdx.exchange/trade">
@@ -31,14 +34,22 @@ const Nav = () => {
             </div>
             <ul className="mob-nav-items">
                 <li>
-                    <a href="#">Home</a>
-                </li>
-                <li>
-                    <a href="#">Traders</a>
-                </li>
-                <li>
-                    <a href="#">About</a>
-                </li>
+                        <a href="https://fxdx.exchange">Home</a>
+                    </li>
+                    <li>
+                        <a href="https://mainnet.fxdx.exchange/stats">Stats</a>
+                    </li>
+                    <li>
+                        <a href="https://mainnet.fxdx.exchange/buy_flp">
+                            Add Liquidity
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://fxdxdex.github.io/howto/">How To</a>
+                    </li>
+                     <li>
+                        <a href="https://m.mexc.com/auth/signup?inviteCode=1HqkX">Buy USDC(ALGO)</a>
+                    </li>
             </ul>
         </div>
     );
